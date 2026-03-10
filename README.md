@@ -16,6 +16,5 @@ Proyecto web informativo desarrollado como labor social para dar visibilidad a l
 - juan Camilo Ausecha
 - Juan Jose Gomez
 
-##
-Proyecto desarrollado por estudiantes de Ingeniería de Sistemas.
+## Proyecto desarrollado por estudiantes de Ingeniería de Sistemas.
 --
